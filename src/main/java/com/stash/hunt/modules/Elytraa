@@ -1,4 +1,4 @@
-package bep.hax.modules;
+package com.stash.hunt.modules;
 import bep.hax.Bep;
 import meteordevelopment.meteorclient.events.world.TickEvent;
 import meteordevelopment.meteorclient.settings.*;
